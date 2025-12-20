@@ -206,7 +206,7 @@
           "title": "Item.WeaponType",
           "type": "picker",
           "attribute": "data.weaponType",
-          "attributeType": "Weapon"
+          "attributeType": "WeaponType"
         },
         {
           "title": "Item.WeaponCategory",
