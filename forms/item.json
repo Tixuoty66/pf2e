@@ -195,7 +195,6 @@
         },
         {
           "title": "Item.Reload",
-          "type": "number",
           "attribute": "data.reload"
         },
         {
