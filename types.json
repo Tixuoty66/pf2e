@@ -247,6 +247,7 @@
     "bow": "WeaponGroup.Bow",
     "brawling": "WeaponGroup.Brawling",
     "club": "WeaponGroup.Club",
+    "crosssbow": "WeaponGroup.Crossbow",
     "dart": "WeaponGroup.Dart",
     "flail": "WeaponGroup.Flail",
     "hammer": "WeaponGroup.Hammer",
