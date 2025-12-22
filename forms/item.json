@@ -229,7 +229,6 @@
       "fields": [
         {
           "title": "Item.Hands",
-          "type": "number",
           "attribute": "data.hands"
         },
       ]
