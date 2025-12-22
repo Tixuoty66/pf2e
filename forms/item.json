@@ -104,7 +104,7 @@
       ]
     },
     {
-      "title": "Armor",
+      "title": "ItemCategory.Armor",
       "type": "group",
       "visibleIf": "data.category == 'armor'",
       "fields": [
@@ -148,7 +148,7 @@
       ]
     },
     {
-      "title": "Shield",
+      "title": "ItemCategory.Shield",
       "type": "group",
       "visibleIf": "data.category == 'shield'",
       "fields": [
@@ -180,7 +180,7 @@
       ]
     },
     {
-      "title": "Weapon",
+      "title": "ItemCategory.Weapon",
       "type": "group",
       "visibleIf": "data.category == 'weapon'",
       "fields": [
@@ -223,12 +223,12 @@
       ]
     },
     {
-      "title": "Gear",
+      "title": "ItemCategory.AdventuringGear",
       "type": "group",
-      "visibleIf": "data.category == 'gear'",
+      "visibleIf": "data.category == 'adventuringGear'",
       "fields": [
         {
-          "title": "Hands",
+          "title": "Item.Hands",
           "type": "number",
           "attribute": "data.hands"
         }
