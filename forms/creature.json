@@ -21,12 +21,6 @@
           "attributeType": "Rarity"
         },
         {
-          "title": "Common.Alignment",
-          "type": "picker",
-          "attribute": "data.alignment",
-          "attributeType": "Alignment"
-        },
-        {
           "title": "Common.Size",
           "type": "picker",
           "attribute": "data.size",
