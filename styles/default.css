@@ -387,10 +387,6 @@ p:last-child {
     text-underline-offset: 0;
     text-transform: uppercase;
   }
-
- .trait-alignment {
-    background-color: var(--tag-blue-color);
-  }
  
  .trait-rarity-uncommon {
     background-color: var(--tag-orange-color);
