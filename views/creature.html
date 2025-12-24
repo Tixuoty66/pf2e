@@ -18,6 +18,9 @@
       <a class="trait trait-rarity-{{data.rarity}}" href="/trait/{{data.rarity}}">{{data.rarity|map: 'Rarity'}}</a>
       {% endif %}
 
+      {% if data.alignment %}
+      <a class="trait trait-alignment" href="/trait/{{data.alignment}}">{{data.alignment|map: 'Alignment'}}</a>
+      {% endif %}
       {% if data.size %}
       <a class="trait trait-size" href="/trait/{{data.size}}">{{data.size|map: 'Size'}}</a>
       {% endif %}
