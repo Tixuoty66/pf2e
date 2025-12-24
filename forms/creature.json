@@ -65,7 +65,7 @@
       "type": "group",
       "fields": [
         {
-          "title": "Skills",
+          "title": "Creature.Skills",
           "type": "attributes",
           "attribute": "data.skills",
           "attributeType": "Skill"
