@@ -373,4 +373,28 @@
     "source": "Common.Source",
     "other": "RuleType.Other"
   },
+  "Language": {
+    "aklo": "Language.Aklo",
+    "cthonian": "Language.Cthonian",
+    "common": "Language.Common",
+    "diabolic": "Language.Diabolic",
+    "draconic": "Language.Draconic",
+    "dwarven": "Language.Dwarven",
+    "elven": "Language.Elven",
+    "empyrean": "Language.Empyrean",
+    "fey": "Language.Fey",
+    "gnomish": "Language.Gnomish",
+    "goblin": "Language.Goblin",
+    "halfling": "Language.Halfling",
+    "jotun": "Language.Jotun",
+    "kholo": "Language.Kholo",
+    "necril": "Language.Necril",
+    "orcish": "Language.Orcish",
+    "petran": "Language.Petran",
+    "pyric": "Language.Pyric",
+    "sakvroth": "Language.Sakvroth",
+    "shadowtongue": "Language.Shadowtongue",
+    "sussuran": "Language.Sussuran",
+    "thalassic": "Language.Thalassic"
+  },
 }
