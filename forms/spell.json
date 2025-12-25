@@ -76,7 +76,9 @@
         },
         {
           "title": "Spell.Defense",
-          "attribute": "data.defense"
+          "type": "picker",
+          "attribute": "data.defense",
+          "attributeType": "SpellDefense"
         },
         {
           "title": "Spell.Duration",
