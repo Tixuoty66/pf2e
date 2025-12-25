@@ -1,19 +1,10 @@
 {
-  "Size": [
-    "tiny",
-    "small",
-    "medium",
-    "large",
-    "huge",
-    "gargantuan",
-  ],
-  "Attribute": [
-    "strength",
-    "dexterity",
-    "constitution",
-    "intelligence",
-    "wisdom",
-    "charisma"
+  "Action": [
+    "one",
+    "two",
+    "three",
+    "reaction",
+    "Free"
   ],
   "Alignment": [
     "LG",
@@ -25,5 +16,27 @@
     "LE",
     "NE",
     "CE"
+  ],
+  "Attribute": [
+    "strength",
+    "dexterity",
+    "constitution",
+    "intelligence",
+    "wisdom",
+    "charisma"
+  ],
+  "Rarity": [
+    "common",
+    "uncommon",
+    "rare",
+    "unique"
+  ],
+  "Size": [
+    "tiny",
+    "small",
+    "medium",
+    "large",
+    "huge",
+    "gargantuan"
   ],
 }
