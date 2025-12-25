@@ -6,5 +6,5 @@
 
 {% if data.range %}**{{'Spell.Range'|l}}** {{data.range}}; {% endif %}{% if data.area %}**{{'Spell.Area'|l}}** {{data.area}}; {% endif %}{% if data.targets %}**{{'Spell.Targets'|l}}** {{data.targets}} {% endif %}
 
-{% if data.defense %}**{{'Spell.Defense'|l}}** {{data.defense|map: 'SpellDefense'|lowercase}}; {% endif %}{% if data.duration %}**{{'Spell.Duration'|l}}** {{data.duration}}{% endif %}
+{% if data.defense %}**{{'Spell.Defense'|l}}** {{data.defense|map: 'SpellDefense'}}; {% endif %}{% if data.duration %}**{{'Spell.Duration'|l}}** {{data.duration}}{% endif %}
 
