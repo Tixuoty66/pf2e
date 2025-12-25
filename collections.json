@@ -39,4 +39,9 @@
     "huge",
     "gargantuan"
   ],
+  "SpellType": [
+    "cantrip",
+    "spell",
+    "focus"
+  ],
 }
