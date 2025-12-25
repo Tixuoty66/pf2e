@@ -397,4 +397,9 @@
     "sussuran": "Language.Sussuran",
     "thalassic": "Language.Thalassic"
   },
+  "SpellDefense": {
+    "fortitude": "SpellDefense.Fortitude",
+    "reflex": "SpellDefense.Reflex",
+    "will": "SpellDefense.Will"
+  },
 }
