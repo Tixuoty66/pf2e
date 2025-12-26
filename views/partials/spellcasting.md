@@ -1,1 +1,1 @@
-**{{name}}** {{focusPoints}} Focus Points, DC {{spellDC}}, attack [{{spellAttack}}](roll); {{text}}
+**{{name}}** {{focusPoints}} Focus Points, {{'Common.DC'|l}} {{spellDC}}, attack [{{spellAttack}}](roll); {{text}}
