@@ -3,7 +3,7 @@
 {% endif %}
 
 {% if data.languages %}
-**{{'Creature.Languages'|l}}** {{data.languages|map: 'Language'}}
+**{{'Creature.Languages'|l}}** {{data.languages|map: 'Language'|lowercase}}
 {% endif %}
 
 {% if data.skills %}
