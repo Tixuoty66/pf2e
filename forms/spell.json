@@ -62,6 +62,11 @@
           "attribute": "data.cast"
         },
         {
+          "title": "Spell.Trigger",
+          "type": "text",
+          "attribute": "data.trigger"
+        },
+        {
           "title": "Spell.Range",
           "type": "text",
           "attribute": "data.range"
