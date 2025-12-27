@@ -22,12 +22,6 @@
       "type": "group",
       "fields": [
         {
-          "title": "Spell.Traditions",
-          "type": "multiPicker",
-          "attribute": "data.traditions",
-          "attributeType": "MagicalTradition"
-        },
-        {
           "title": "Common.Rarity",
           "type": "picker",
           "attribute": "data.rarity",
@@ -55,6 +49,12 @@
           "type": "picker",
           "attribute": "data.actions",
           "attributeType": "Action",
+        },
+        {
+          "title": "Spell.Traditions",
+          "type": "multiPicker",
+          "attribute": "data.traditions",
+          "attributeType": "MagicalTradition"
         },
         {
           "title": "Spell.Cast",
