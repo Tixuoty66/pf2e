@@ -8,7 +8,7 @@
 {% include "spellcasting.md" spellcasting %}
 {% endfor %}
 
-{% if data.rituals.type %}**{{data.rituals.type}}** {% endif %}{% if data.rituals %}**{{'Creature.Rituals'}}** {% if data.ritualsDC %}DC {{data.rituals.dc}}; {% endif %}{{data.rituals.text}}{% endif %}
+{% if data.rituals.type %}**{{data.rituals.type}}** {% endif %}{% if data.rituals %}**{{'Creature.Rituals'|l}}** {% if data.rituals.dc %}{{'Common.DC'|l}} {{data.rituals.dc}}; {% endif %}{{data.rituals.text}}{% endif %}
 
 {% for ability in data.abilities.offensive %}
 {% include "ability.md" %}
