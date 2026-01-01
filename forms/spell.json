@@ -51,9 +51,20 @@
           "attributeType": "Action",
         },
         {
+          "title": "Spell.Traditions",
+          "type": "multiPicker",
+          "attribute": "data.traditions",
+          "attributeType": "MagicalTradition"
+        },
+        {
           "title": "Spell.Cast",
           "type": "text",
           "attribute": "data.cast"
+        },
+        {
+          "title": "Spell.Trigger",
+          "type": "text",
+          "attribute": "data.trigger"
         },
         {
           "title": "Spell.Range",
@@ -70,7 +81,9 @@
         },
         {
           "title": "Spell.Defense",
-          "attribute": "data.defense"
+          "type": "picker",
+          "attribute": "data.defense",
+          "attributeType": "SpellDefense"
         },
         {
           "title": "Spell.Duration",

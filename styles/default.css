@@ -387,8 +387,8 @@ p:last-child {
     text-underline-offset: 0;
     text-transform: uppercase;
   }
-
-  .trait-rarity-uncommon {
+ 
+ .trait-rarity-uncommon {
     background-color: var(--tag-orange-color);
   }
 
