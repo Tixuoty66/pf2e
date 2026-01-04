@@ -281,11 +281,11 @@
                 "type": "group",
                 "fields": [
                   {
-                    "title": "DC",
+                    "title": "Ritual.DC",
                     "attribute": "data.rituals.dc"
                   },
                   {
-                    "title": "Rituals",
+                    "title": "Creatures.Rituals",
                     "type": "textArea",
                     "attribute": "data.rituals.text"
                   },
