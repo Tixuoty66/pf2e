@@ -464,6 +464,7 @@
   "SpellComponent.Material": "Material",
   "SpellComponent.Somatic": "Somatic",
   "SpellComponent.Verbal": "Verbal",
+  "SpellDefense.BasicFortitude": "Basic Fortitude",
   "SpellDefense.BasicReflex": "Basic Reflex",
   "SpellDefense.Fortitude": "Fortitude",
   "SpellDefense.Reflex": "Reflex",
