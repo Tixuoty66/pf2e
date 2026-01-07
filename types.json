@@ -398,6 +398,7 @@
     "thalassic": "Language.Thalassic"
   },
   "SpellDefense": {
+    "basicfortitude": "SpellDefense.BasicFortitude",
     "basicreflex": "SpellDefense.BasicReflex",
     "fortitude": "SpellDefense.Fortitude",
     "reflex": "SpellDefense.Reflex",
