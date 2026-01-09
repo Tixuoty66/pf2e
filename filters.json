@@ -9,22 +9,22 @@
       {
         "attribute": "data.rarity",
         "attributeType": "Rarity",
-        "title": "Rarity"
+        "title": "Common.Rarity"
       },
       {
         "attribute": "data.alignment",
         "attributeType": "Alignment",
-        "title": "Alignment"
+        "title": "Common.Alignment"
       },
       {
         "attribute": "data.size",
         "attributeType": "Size",
-        "title": "Size"
+        "title": "Common.Size"
       },
       {
         "attribute": "data.traits",
         "dynamic": true,
-        "title": "Trait"
+        "title": "Common.Trait"
       },
       {
         "attribute": "sources.name",
@@ -40,13 +40,13 @@
       },
       {
         "attribute": "name",
-        "title": "Name"
+        "title": "Common.Name"
       }
     ],
     "sort": [
       {
         "attribute": "name",
-        "title": "Name"
+        "title": "Common.Name"
       }
     ]
   },
@@ -96,13 +96,13 @@
       },
       {
         "attribute": "name",
-        "title": "Name"
+        "title": "Common.Name"
       }
     ],
     "sort": [
       {
         "attribute": "name",
-        "title": "Name"
+        "title": "Common.Name"
       }
     ]
   },
@@ -137,13 +137,13 @@
       },
       {
         "attribute": "name",
-        "title": "Name"
+        "title": "Common.Name"
       }
     ],
     "sort": [
       {
         "attribute": "name",
-        "title": "Name"
+        "title": "Common.Name"
       }
     ]
   },
@@ -224,7 +224,7 @@
     "sort": [
       {
         "attribute": "name",
-        "title": "Name"
+        "title": "Common.Name"
       },
       {
         "attribute": "data.level",
