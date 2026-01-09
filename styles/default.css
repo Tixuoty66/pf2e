@@ -500,3 +500,6 @@ p:last-child {
     color: var(--tag-color);
   }
 }
+img[src*="/icons/actions/"] {
+  height: 1.1em;
+}
