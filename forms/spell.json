@@ -57,6 +57,11 @@
           "attributeType": "MagicalTradition"
         },
         {
+          "title": "Spell.Requirements",
+          "type": "text",
+          "attribute": "data.requirements"
+        },
+        {
           "title": "Spell.Cast",
           "type": "text",
           "attribute": "data.cast"
