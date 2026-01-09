@@ -400,6 +400,7 @@
   "SpellDefense": {
     "basicfortitude": "SpellDefense.BasicFortitude",
     "basicreflex": "SpellDefense.BasicReflex",
+    "basicwill": "SpellDefense.BasicWill",
     "fortitude": "SpellDefense.Fortitude",
     "reflex": "SpellDefense.Reflex",
     "will": "SpellDefense.Will"
