@@ -3,7 +3,7 @@
   "entity": "Item",
   "sections": [
     {
-      "title": "Common.Traits",
+      "title": "Common.BaseTraits",
       "type": "group",
       "fields": [
         {
@@ -12,6 +12,12 @@
           "attribute": "data.rarity",
           "attributeType": "Rarity"
         },
+      ]
+    },
+    {
+      "title": "Common.Traits",
+      "type": "group",
+      "fields": [
         {
           "title": "Common.Traits",
           "type": "tags",
