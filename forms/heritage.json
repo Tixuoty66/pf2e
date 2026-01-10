@@ -5,7 +5,7 @@
       "type": "group",
       "fields": [
         {
-          "title": "Rarity",
+          "title": "Common.Rarity",
           "type": "picker",
           "attribute": "data.rarity",
           "attributeType": "Rarity"
