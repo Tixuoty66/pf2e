@@ -125,7 +125,7 @@
         },
         {
           "title": "Item.SpeedPenalty",
-          "type": "number",
+          "type": "decimal",
           "attribute": "data.speedPenalty"
         },
         {
@@ -159,7 +159,7 @@
         },
         {
           "title": "Item.SpeedPenalty",
-          "type": "number",
+          "type": "decimal",
           "attribute": "data.speedPenalty"
         },
         {
