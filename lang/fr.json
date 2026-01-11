@@ -74,6 +74,8 @@
   "Class.ClassFeature": "Capacité de Classe",
   "Class.ClassFeatures": "Capacités de Classe",
   "Class.ClassFeaturesText": "Capacités de classe",
+  "Class.HpText1": "plus votre modificateur de Constitution",
+  "Class.HpText2": "Vous augmentez votre maximum de PV de ce montant au niveau 1, puis chaque fois que vous montez de niveau.",
   "Class.InitialProficiencies": "Maîtrises initiales",
   "Class.KeyAttribute": "Attribut essentiel",
   "Class.KeyTerms": "Mots clés",
