@@ -25,6 +25,12 @@
     "wisdom",
     "charisma"
   ],
+  "Proficiency": [
+    "trained",
+    "expert",
+    "master",
+    "legendary"
+  ],
   "Rarity": [
     "common",
     "uncommon",
