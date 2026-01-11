@@ -19,7 +19,15 @@
       <a class="trait" href="/trait/{{trait}}">{{trait}}</a>
       {% endfor %}
     </div>
+    
+    <div class="stat-section">
+      {% markdown -%}
+      {% include "feat-primary.md" %}
+      {% endmarkdown %}
+    </div>
 
+    <hr>
+    
     {% if descr %}
     {{descr|md}}
     {% endif %}
