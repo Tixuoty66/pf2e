@@ -78,12 +78,12 @@
       ]
     },
     {
-      "title": "Class.KeyTerms",
+      "title": "Class.ClassAdvancement",
       "type": "group",
       "fields": [
         {
           "type": "textArea",
-          "attribute": "data.keyTerms",
+          "attribute": "data.classAdvancement",
           "custom": {
             "lines": 6
           }
@@ -112,6 +112,19 @@
         "title": "Class.ClassFeature",
         "partial": "feature"
       }
+    },
+    {
+      "title": "Class.KeyTerms",
+      "type": "group",
+      "fields": [
+        {
+          "type": "textArea",
+          "attribute": "data.keyTerms",
+          "custom": {
+            "lines": 6
+          }
+        }
+      ]
     },
   ]
 }
