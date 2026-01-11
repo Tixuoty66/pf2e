@@ -43,16 +43,26 @@
       ]
     },
     {
-      "title": "Feat.Prerequisites",
       "type": "group",
       "fields": [
         {
-          "placeholder": "Feat.Prerequisites",
-          "type": "textArea",
+          "title": "Feat.Prerequisites",
           "attribute": "data.prerequisites"
+        }, 
+        {
+          "title": "Feat.Frequency",
+          "attribute": "data.frequency",
+        },
+        {
+          "title": "Feat.Requirements",
+          "attribute": "data.requirements",
+        },
+        {
+          "title": "Feat.Trigger",
+          "attribute": "data.trigger",
         },
       ]
-    }, 
+    },
     {
       "title": "Feat.Benefits",
       "type": "group",
