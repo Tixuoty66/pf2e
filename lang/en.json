@@ -494,6 +494,7 @@
   "SpellSchool.Transmutation": "Transmutation",
   "SpellType.Cantrip": "Cantrip",
   "SpellType.Focus": "Focus",
+  "SpellType.Ritual": "Ritual",
   "SpellType.Spell": "Spell",
   "Spellcasting.FocusPoints": "Focus Points",
   "Spellcasting.Innate": "Innate",
