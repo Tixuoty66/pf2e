@@ -67,6 +67,11 @@
           "attribute": "data.cast"
         },
         {
+          "title": "Spell.Cost",
+          "type": "text",
+          "attribute": "data.cost"
+        },
+        {
           "title": "Spell.Trigger",
           "type": "text",
           "attribute": "data.trigger"
