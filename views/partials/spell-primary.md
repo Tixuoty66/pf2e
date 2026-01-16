@@ -4,7 +4,7 @@
 
 {% if data.requirements %}**{{'Spell.Requirements'|l}}** {{data.requirements}} {% endif %}
 
-{% if data.cast %}**{{'Spell.Cast'|l}}** {{data.cast}}; {% endif %}{% if data.trigger %}**{{'Spell.Trigger'|l}}** {{data.trigger}}{% endif %}
+{% if data.cast %}**{{'Spell.Cast'|l}}** {{data.cast}}; {% endif %}{% if data.cost %}**{{'Spell.Cost'|l}}** {{data.cost}}; {% endif %}{% if data.trigger %}**{{'Spell.Trigger'|l}}** {{data.trigger}}{% endif %}
 
 {% if data.range %}**{{'Spell.Range'|l}}** {{data.range|lowercase}}; {% endif %}{% if data.area %}**{{'Spell.Area'|l}}** {{data.area|lowercase}}; {% endif %}{% if data.targets %}**{{'Spell.Targets'|l}}** {{data.targets}} {% endif %}
 
