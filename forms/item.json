@@ -3,6 +3,18 @@
   "entity": "Item",
   "sections": [
     {
+      "title": "Common.BaseTraits",
+      "type": "group",
+      "fields": [
+        {
+          "title": "Common.Rarity",
+          "type": "picker",
+          "attribute": "data.rarity",
+          "attributeType": "Rarity"
+        },
+      ]
+    },
+    {
       "title": "Common.Traits",
       "type": "group",
       "fields": [
@@ -125,7 +137,7 @@
         },
         {
           "title": "Item.SpeedPenalty",
-          "type": "number",
+          "type": "decimal",
           "attribute": "data.speedPenalty"
         },
         {
@@ -159,7 +171,7 @@
         },
         {
           "title": "Item.SpeedPenalty",
-          "type": "number",
+          "type": "decimal",
           "attribute": "data.speedPenalty"
         },
         {

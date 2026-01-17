@@ -52,7 +52,8 @@
   "SpellType": {
     "cantrip": "SpellType.Cantrip",
     "spell": "SpellType.Spell",
-    "focus": "SpellType.Focus"
+    "focus": "SpellType.Focus",
+    "ritual": "SpellType.Ritual"
   },
   "SpellSchool": {
     "abjuration": "SpellSchool.Abjuration",
@@ -398,7 +399,9 @@
     "thalassic": "Language.Thalassic"
   },
   "SpellDefense": {
+    "basicfortitude": "SpellDefense.BasicFortitude",
     "basicreflex": "SpellDefense.BasicReflex",
+    "basicwill": "SpellDefense.BasicWill",
     "fortitude": "SpellDefense.Fortitude",
     "reflex": "SpellDefense.Reflex",
     "will": "SpellDefense.Will"

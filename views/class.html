@@ -35,7 +35,12 @@
       {% include "class-secondary.md" %}
       {% endmarkdown %}
     </div>
-
+    
+    {% if data.classAdvancement %}
+    <h2>{{name}} {{'Class.ClassAdvancement'|l}}</h2>
+    {{data.classAdvancement|md}}
+    {% endif %}
+    
     {% if data.classFeaturesText %}
     <h2>{{'Class.ClassFeatures'|l}}</h2>
     {{data.classFeaturesText|md}}

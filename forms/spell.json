@@ -57,9 +57,19 @@
           "attributeType": "MagicalTradition"
         },
         {
+          "title": "Spell.Requirements",
+          "type": "text",
+          "attribute": "data.requirements"
+        },
+        {
           "title": "Spell.Cast",
           "type": "text",
           "attribute": "data.cast"
+        },
+        {
+          "title": "Spell.Cost",
+          "type": "text",
+          "attribute": "data.cost"
         },
         {
           "title": "Spell.Trigger",

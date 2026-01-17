@@ -4,7 +4,7 @@
     "two",
     "three",
     "reaction",
-    "Free"
+    "free"
   ],
   "Alignment": [
     "LG",
@@ -25,6 +25,12 @@
     "wisdom",
     "charisma"
   ],
+  "Proficiency": [
+    "trained",
+    "expert",
+    "master",
+    "legendary"
+  ],
   "Rarity": [
     "common",
     "uncommon",
@@ -42,6 +48,7 @@
   "SpellType": [
     "cantrip",
     "spell",
-    "focus"
+    "focus",
+    "ritual"
   ],
 }
