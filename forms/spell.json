@@ -57,6 +57,11 @@
           "attributeType": "MagicalTradition"
         },
         {
+          "title": "Spell.Muse",
+          "type": "text",
+          "attribute": "data.muse"
+        },
+        {
           "title": "Spell.Trigger",
           "type": "text",
           "attribute": "data.trigger"
