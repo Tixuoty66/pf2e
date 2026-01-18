@@ -5,6 +5,12 @@
       "type": "group",
       "fields": [
         {
+          "title": "Common.Actions",
+          "type": "picker",
+          "attribute": "data.actions",
+          "attributeType": "Action",
+        },
+        {
           "title": "Common.Type",
           "type": "picker",
           "attribute": "data.type",
@@ -44,12 +50,6 @@
     {
       "type": "group",
       "fields": [
-        {
-          "title": "Common.Actions",
-          "type": "picker",
-          "attribute": "data.actions",
-          "attributeType": "Action",
-        },
         {
           "title": "Spell.Traditions",
           "type": "multiPicker",
