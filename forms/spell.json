@@ -57,6 +57,11 @@
           "attributeType": "MagicalTradition"
         },
         {
+          "title": "Spell.Trigger",
+          "type": "text",
+          "attribute": "data.trigger"
+        },
+        {
           "title": "Spell.Requirements",
           "type": "text",
           "attribute": "data.requirements"
@@ -70,11 +75,6 @@
           "title": "Spell.Cost",
           "type": "text",
           "attribute": "data.cost"
-        },
-        {
-          "title": "Spell.Trigger",
-          "type": "text",
-          "attribute": "data.trigger"
         },
         {
           "title": "Spell.Range",
