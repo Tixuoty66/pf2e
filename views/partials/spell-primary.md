@@ -1,3 +1,5 @@
+{% if data.muse %}**{{'Spell.Muse'|l}}** {{data.muse}}{% endif %}
+
 {% if data.traditions %}
 **{{'Spell.Traditions'|l}}** {{data.traditions|map: 'MagicalTradition'|lowercase}}
 {% endif %}
