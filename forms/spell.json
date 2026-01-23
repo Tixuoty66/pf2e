@@ -11,6 +11,12 @@
           "attributeType": "Action",
         },
         {
+          "title": "Common.ActionsMult",
+          "type": "picker",
+          "attribute": "data.actionsmult",
+          "attributeType": "ActionMult",
+        },
+        {
           "title": "Common.Type",
           "type": "picker",
           "attribute": "data.type",
