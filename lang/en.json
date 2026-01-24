@@ -537,6 +537,7 @@
   "TraitType.Shield": "Shield",
   "TraitType.Tradition": "Tradition",
   "TraitType.Weapon": "Weapon",
+  "TraitType.WeaponGroup": "Weapon Group",
   "WeaponCategory.Advanced": "Advanced",
   "WeaponCategory.Martial": "Martial",
   "WeaponCategory.Simple": "Simple",
