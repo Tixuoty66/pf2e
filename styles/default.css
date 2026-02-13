@@ -75,6 +75,7 @@
   --pico-typography-spacing-vertical: 0.6rem;
 
   /* use this variable to change default font size */
+  /* --font-size: 93.75%; */
   --font-size: 100%;
   /* --font-size: 106.25%; */
   /* --font-size: 112.5%; */
@@ -101,13 +102,6 @@
   --box-border-color: rgba(0, 0, 0, 0.255);
   --box-background-color: rgba(255, 255, 255, 0.9);
   --box-text-color: #4E1B0E;
-}
-
-/* larger font size for catalyst */
-:root.catalyst {
-  /* --font-size: 100%; */
-  --font-size: 106.25%;
-  --pico-font-size: calc(var(--font-size, 100%) * var(--font-scale, 1));
 }
 
 /* colors */
