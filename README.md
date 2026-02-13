@@ -1,4 +1,4 @@
-![Banner](pf-banner.jpg)
+![Banner](pf2e-banner.jpg)
 
 # Pathfinder 2e 
 
